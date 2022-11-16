@@ -102,6 +102,10 @@ Previously, applications were hosted on EC2's that were either manually set up, 
   - The image is pushed to DockerHub.
   - Terraform uses the image from DockerHub to create and host the container/application.
 
+## System Design Diagram:
+
+To view the diagram of the system design/deployment pipeline, click [HERE](https://github.com/KingmanT/Flask_Application-Containerized_Deployment/blob/main/Images/Deployment%205%20Diagram.jpg)
+
 ## Issues/Troubleshooting:
 
 Setting up the various files individually worked when run manually through the terminal. However, when all of the moving parts are put together into the one pipeline, their compatibility was tested and issues arose.
